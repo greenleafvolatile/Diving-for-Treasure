@@ -1,0 +1,10 @@
+Jim 400
+Dave 375
+Eve 300
+Jane 250
+Mike 175
+Henk 150
+John 125
+Lois 100
+Roy 75
+Betty 50
